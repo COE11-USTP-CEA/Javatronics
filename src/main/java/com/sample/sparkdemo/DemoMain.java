@@ -16,11 +16,18 @@ public class DemoMain {
     public static void main(String[] args) {
         staticFiles.location("/css"); // Static files
         
-        get("/hello", (req, res) -> {
+        get("/", (req, res) -> {
             Map<String, Object> model = new HashMap<>();
-            model.put("title","SparkJava Demo");
-            model.put("message", "Hello Freemarker!");
+         //   model.put("title","SparkJava Demo");
+           // model.put("message", "Hello Freemarker!");
             return new ModelAndView(model, "hello.ftl"); // located in src/test/resources/spark/template/freemarker
+        }, new FreeMarkerEngine());
+
+        get("/form", (req, res) -> {
+            Map<String, Object> model = new HashMap<>();
+         //   model.put("title","SparkJava Demo");
+           // model.put("message", "Hello Freemarker!");
+            return new ModelAndView(model, "form.ftl"); // located in src/test/resources/spark/template/freemarker
         }, new FreeMarkerEngine());
     }
 }
