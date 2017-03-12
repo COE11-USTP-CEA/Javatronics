@@ -36,13 +36,13 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
 						<li>
-							<a href="#">About</a>
+							<a href="#">Home</a>
 						</li>
 						<li>
-							<a href="#">Services</a>
+							<a href="#">Assets</a>
 						</li>
                         <li>
-							<a href="#">Assets</a>
+							<a href="#">About</a>
 						</li>
 						<li>
 							<a href="form">Form</a>
@@ -58,7 +58,7 @@
 			<!-- Jumbotron Header -->
 			<header class="jumbotron hero-spacer">
 				<h1><b>InventWeb<b/></h1>
-				<p>Welcome to InventWeb where you can access your inventory online.</p>
+				<p>Welcome to InventWeb where you can access your inventory online!</p>
 				<p><a class="btn btn-primary btn-large">Contact Us</a>
 				</p>
 			</header>
@@ -66,7 +66,7 @@
 			<!-- Title -->
 			<div class="row">
 				<div class="col-lg-12">
-					<h3>Latest Features</h3>
+					<h3>Simple Item Inventory</h3>
 				</div>
 			</div>
 			<!-- /.row -->
