@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="">
 		<meta name="author" content="">
-		<title>InventWeb</title>
+		<title>$<title></title>
 		<!-- Bootstrap Core CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<!-- Custom CSS -->
@@ -30,22 +30,16 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">InventWeb</a>
+					<a class="navbar-brand" href="/">InventWeb</a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
 						<li>
-							<a href="#">Home</a>
+							<a href="">About</a>
 						</li>
 						<li>
-							<a href="#">Assets</a>
-						</li>
-                        <li>
-							<a href="#">About</a>
-						</li>
-						<li>
-							<a href="form">Form</a>
+							<a href="#">Services</a>
 						</li>
 					</ul>
 				</div>
@@ -57,67 +51,26 @@
 		<div class="container">
 			<!-- Jumbotron Header -->
 			<header class="jumbotron hero-spacer">
-				<h1><b>InventWeb<b/></h1>
-				<p>Welcome to InventWeb where you can access your inventory online!</p>
-				<p><a class="btn btn-primary btn-large">Contact Us</a>
-				</p>
+				<h1 style="font-size:90px;"><b>JAVATRONICS</b></h1>
+				<p>-Simple Item Inventory</p>
+				<br /><br />
+				<h2 style="color : blue;" align="center"><b>Mission</b></h2>
+				<p align="center">Our mission is to create a system that can assist and help anyone in need of assistance and to create more sufficient way in making a proper system.</p>
+				<br /><br />
+				<h2 style="color : blue;" align="center"><b>Vision</b></h2>
+				<p align="center">Aims to provide powerful tool and advance program that bring best inventory practice efficiently and productively in the process.</p>
+				<br /><br /><br /><br />
+				<p>JAVATRONICS MEMBERS :</p>
+				<br />
+				<p>CRISTIAN C. BERNAS & KIM HANZEL S. ONG</p>
+				<p>- Programmer and lay-out designer</p>
+				<br />
+				<p>ROSALY SIA</p>
+				<p>- lay-out designer</p>
+				<br />
+				<p>SONNY RIBOLLIDO & DIANNE NEGPARANON</p>
+				<p>- Assistant</p>
 			</header>
-			<hr>
-			<!-- Title -->
-			<div class="row">
-				<div class="col-lg-12">
-					<h3>Simple Item Inventory</h3>
-				</div>
-			</div>
-			<!-- /.row -->
-			<!-- Page Features -->
-			<div class="row text-center">
-				<div class="col-md-3 col-sm-6 hero-feature">
-					<div class="thumbnail">
-						<img src="img/bags.jpg" alt="" style="margin-top : 20px;">
-						<div class="caption">
-							<h3><b>Bags<b/></h3>
-							<p>
-								<a href="#" class="btn btn-success">More Info</a>
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 hero-feature">
-					<div class="thumbnail">
-						<img src="img/shoes.jpg" alt="" style="margin-top : 20px;">
-						<div class="caption">
-							<h3><b>Shoes<b/></h3>
-							<p>
-								<a href="#" class="btn btn-success">More Info</a>
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 hero-feature">
-					<div class="thumbnail">
-						<img src="img/tshirt.jpg" alt="" style="margin-top : 20px;">
-						<div class="caption">
-							<h3><b>T-shirt<b/></h3>
-							<p>
-								<a href="#" class="btn btn-success">More Info</a>
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 hero-feature">
-					<div class="thumbnail">
-						<img src="img/shades.jpg" alt="" style="margin-top : 20px;">
-						<div class="caption">
-							<h3><b>Shades<b/></h3>
-							<p>
-								<a href="#" class="btn btn-success">More Info</a>
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- /.row -->
 			<hr>
 			<!-- Footer -->
 			<footer>
