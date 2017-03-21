@@ -58,7 +58,9 @@
 				<p align="center">Our mission is to create a system that can assist and help anyone in need of assistance and to create more sufficient way in making a proper system.</p>
 				<br /><br />
 				<h2 style="color : blue;" align="center"><b>Vision</b></h2>
-				<p align="center">Aims to provide powerful tool and advance program that bring best inventory practice efficiently and productively in the process.</p>
+				<p align="center">Aims to provide powerful tool and advance program that bring best inventory practice efficiently and productively in the process.We believe that, in today's market, a winning Supply Chain is especially required for a company's survival. The key to our success lies in the combination of having both the knowledge and the experience to combining them to produce practical software. Experience that we continue to gain from our customers is directly used to improve and develop our products.
+
+With a unique and passionate team of over 100 professionals, we continuously develop our products and services. Our mission is simple: To provide the best support to our customers in our field.</p>
 				<br /><br /><br /><br />
 				<p>JAVATRONICS MEMBERS :</p>
 				<br />
