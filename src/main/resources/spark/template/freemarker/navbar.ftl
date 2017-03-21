@@ -30,7 +30,7 @@
       </ul>
        
       	<ul class="nav navbar-nav navbar-right">
-        	<li><a href="/">About Us</a></li>
+        	<li><a href="/">Home</a></li>
         </ul>
 	</div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
