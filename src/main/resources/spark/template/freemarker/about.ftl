@@ -62,13 +62,15 @@
 				<br /><br /><br /><br />
 				<p>JAVATRONICS MEMBERS :</p>
 				<br />
-				<p>CRISTIAN C. BERNAS & KIM HANZEL S. ONG</p>
+				<p>CRISTIAN C. BERNAS &</p>
+				<p>KIM HANZEL S. ONG</p>
 				<p>- Programmer and lay-out designer</p>
 				<br />
 				<p>ROSALY SIA</p>
 				<p>- lay-out designer</p>
 				<br />
-				<p>SONNY RIBOLLIDO & DIANNE NEGPARANON</p>
+				<p>SONNY RIBOLLIDO &</p>
+				<p>DIANNE NEGPARANON</p>
 				<p>- Assistant</p>
 			</header>
 			<hr>
